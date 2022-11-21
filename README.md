@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dirambora&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=dirambora&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
