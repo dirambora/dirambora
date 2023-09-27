@@ -6,7 +6,7 @@
 
 
 <b>BIO</b><br>
- I'm a Software Engineer based in Nairobi, Kenya.<br>
+ I'm a Software Engineer and Community Manager based in Nairobi, Kenya.<br>
 ⚙️ I use daily: Dart,Springboot,Kotlin,Github<br>
 🌱 I am Building Communities<br>
 💬 Ping me about Development and Community Building.I am a Google Women TechMakers Ambasaddor<br>
