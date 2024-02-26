@@ -7,7 +7,7 @@
 
 <b>BIO</b><br>
  I'm a Software Engineer and Community Manager based in Nairobi, Kenya.<br>
-⚙️ I use daily: Dart,Springboot,Kotlin,Github<br>
+⚙️ I use daily: Dart,Springboot,Github<br>
 🌱 I am Building Communities<br>
 💬 Ping me about Development and Community Building.I am a Google Women TechMakers Ambasaddor<br>
 📫 How to reach me:diramboraofficial@gmail.com,&nbsp;[Twitter](https://https://twitter.com/diram__), [LinkedIn](https://www.linkedin.com/in/diram-b-guyo-8bb9b1174/)
