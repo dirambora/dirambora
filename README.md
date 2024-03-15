@@ -1,16 +1,19 @@
 | [![Diram Bora](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=green) | ![Followers](https://img.shields.io/github/followers/dirambora) | ![Stars](https://img.shields.io/github/stars/dirambora?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
+<h1 align="center">Hi 👋, I'm Diram</h1>
+<h3 align="center">Software engineer and Digital Creator based in Nairobi, Kenya</h3>
 
-<b>Hi there,I'm Diram</b>👋<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mule-me&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> </p>
 
+- 🔭 I’m currently working on **Backend Projects for a Financial Services company in Nairobi**
 
-<b>BIO</b><br>
- I'm a Software Engineer and a Digital Creator based in Nairobi, Kenya.<br>
-⚙️ I use daily: Dart,Springboot,Github<br>
-🌱 I am Building Communities<br>
-💬 Ping me about Development and Community Building.I am a Google Women TechMakers Ambasaddor<br>
-📫 How to reach me:diramboraofficial@gmail.com,&nbsp;[Twitter](https://https://twitter.com/diram__), [LinkedIn](https://www.linkedin.com/in/diram-b-guyo-8bb9b1174/)
+- 🌱 I’m currently learning **Spring WebFlux,AWS, Redis,  Docker,  Docker-swarm**
+
+- 💬 Ask me about **Java, Springboot, Reactive Programming, Spring WebFlux, Azure DevOps, Flutter, Back-end development, Community Building...**
+
+- 📫 How to reach me **diramboraofficial5@gmail.com**
+
 
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=dirambora&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
