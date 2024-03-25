@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Backend Projects for a Financial Services company in Nairobi**
 
-- 🌱 I’m currently learning **Spring WebFlux,AWS, Redis,  Docker,  Docker-swarm**
+- 🌱 I’m currently learning **AWS, Redis,  Docker,  Docker-swarm**
 
 - 💬 Ask me about **Java, Springboot, Reactive Programming, Spring WebFlux, Azure DevOps, Flutter, Back-end development, Community Building...**
 
